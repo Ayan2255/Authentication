@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string-array name="sex_string">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="bood">
+        <item>Select Blood</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+    </string-array>
+</resources>
